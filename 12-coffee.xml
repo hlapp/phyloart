@@ -305,6 +305,20 @@
 			  </chart>			  
             </clade>
             <clade>
+              <name bgStyle="highlight_bold">American Roast</name>
+              <branch_length>5.0</branch_length>
+			  <annotation>
+				<desc>Yanks need no caffeine</desc>
+				<uri>http://en.wikipedia.org/wiki/American_Roast</uri>
+			  </annotation>			  
+			  <chart>
+				<component>caffeine</component>
+				<acidity>mid</acidity>
+				<content>30</content>
+				<group>markgroupA</group>
+			  </chart>			  
+            </clade>
+            <clade>
               <name bgStyle="highlight_bold">Instant Coffee</name>
               <branch_length>9.0</branch_length>
 			  <annotation>
