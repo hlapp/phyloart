@@ -318,20 +318,6 @@
 				<group>markgroupA</group>
 			  </chart>			  
             </clade>
-            <clade>
-              <name bgStyle="highlight_bold">Instant Coffee</name>
-              <branch_length>9.0</branch_length>
-			  <annotation>
-				<desc>Hold your nose</desc>
-				<uri>http://en.wikipedia.org/wiki/Instant_Coffee</uri>
-			  </annotation>				  
-			  <chart>
-				<component>caffeine</component>
-				<acidity>low</acidity>
-				<content>15</content>
-				<group>markgroupA</group>
-			  </chart>			  
-            </clade>
           </clade>
         </clade>
         <clade>
